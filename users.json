@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Oleg",
+        "surname": "Maslov",
+        "token": "test_token"
+    },
+    {
+        "name": "Evgeniy",
+        "surname": "Chernikov",
+        "token": "best_student!)"
+    }
+]
